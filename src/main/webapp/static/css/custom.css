@@ -1,0 +1,34 @@
+.row {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.short{
+    width: 50% !important;
+}
+
+.froze-table {
+    height: 350px;
+}
+
+.form-float-left {
+    float: left;
+    margin-right: 5px;
+}
+
+.small-text{
+    font-size: xx-small;
+}
+
+input[type='number'] {
+    -moz-appearance:textfield;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+.opacity-full{
+    opacity: 1 !important;
+}
